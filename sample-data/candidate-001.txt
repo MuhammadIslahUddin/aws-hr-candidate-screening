@@ -1,0 +1,28 @@
+SYNTHETIC TEST CV — NOT A REAL PERSON
+
+Candidate ID: candidate-001
+
+Professional Summary:
+Entry-level DevOps engineer with practical experience
+in Linux administration, Git, Docker, and CI/CD concepts.
+
+Technical Skills:
+- Linux
+- Git and GitHub
+- Docker
+- GitHub Actions
+- Basic AWS concepts
+- Python scripting
+- Networking fundamentals
+
+Projects:
+Built a sample CI/CD pipeline using GitHub Actions
+and Docker for a demonstration web application.
+
+Experience:
+One year of fictional project-based experience.
+
+Education:
+Bachelor of Computer Science (fictional example).
+
+This document contains synthetic portfolio data only.
